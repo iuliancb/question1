@@ -8,4 +8,4 @@ def returnDayOfTheWeek(s, k):
 # return the remainder - in our case %7 ((index+k)/7)
     return weekDays[(dayIndex + k) % 7]
 
-print(returnDayOfTheWeek("Sat", 500))
+print(returnDayOfTheWeek("Sat", 23))
