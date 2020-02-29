@@ -1,5 +1,5 @@
 def returnDayOfTheWeek(s, k):
-    """Bell Interview Question 1 - Given, s = "Sat" and k = 23, the function should return Mon - Python (copy and
+    """Question 1 - Given, s = "Sat" and k = 23, the function should return Mon - Python (copy and
     paste it in an online editor to run this code or run it on Atom IDE, any Python IDE ... etc) """
 # weekDays list
     weekDays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
